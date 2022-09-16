@@ -14,3 +14,9 @@ body {
     cursor: url(https://cdn.jsdelivr.net/gh/constown/HexoCustomFile/public/cursors/pointer.cur),
       default;
   }
+
+  /* #page-header:not(.not-top-img):before {
+    
+    background-color: transparent;
+   
+    } */
